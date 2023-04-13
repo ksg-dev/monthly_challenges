@@ -1,0 +1,6 @@
+{
+    "[python]": {
+        "editor.formatOnType": false,
+        "editor.defaultFormatter": "ms-python.autopep8"
+    }
+}
